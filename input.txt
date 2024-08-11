@@ -1,0 +1,21 @@
+C,Toyota Camry,WJ529,200,Available
+T,Ford F150,AL89,300,Not available
+C,Honda Civic,UJ534,250,Not available
+T,Chevrolet Silverado,AJK89,230,Available
+C,Nissan Altima,XY123,180,Available
+T,Toyota Tundra,ZW456,320,Not available
+C,Ford Mustang,BC789,280,Available
+T,Dodge Ram,DE101,270,Not available
+C,Chevrolet Malibu,FG222,210,Available
+T,GMC Sierra,HI333,290,Not available
+C,Hyundai Sonata,JK444,190,Not available
+T,Ram 1500,LM555,310,Available
+C,Kia Optima,NO666,240,Not available
+T,Jeep Wrangler,PQ777,260,Available
+C,Subaru Impreza,RU888,170,Available
+T,Mercedes-Benz Sprinter,ST999,330,Not available
+C,Volvo S60,UV000,220,Available
+T,Toyota Tacoma,XY111,300,Not available
+C,Honda Accord,ZW222,230,Available
+T,Ford Ranger,AB333,280,Available
+C,Honda Civic , AFG34,569,Available
