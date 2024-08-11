@@ -1,13 +1,7 @@
-# VehicleRentalSystem
+# VehicleRentalSyste
 Vehicle rental system project using C++
-Here’s a sample `README.md` file for your Vehicle Rental System project on GitHub:
 
 ---
-
-# Vehicle Rental System
-
-## Overview
-
 This is a C++ console application that simulates a vehicle rental system. The program allows users to display available vehicles, search for vehicles by name or ID, rent or return vehicles, and store information in a file.
 
 ## Features
